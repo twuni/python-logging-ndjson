@@ -1,0 +1,9 @@
+[project]
+name = "twuni_logging_ndjson"
+version = "0.1.0"
+authors = [
+  { name = "Devin Canterberry", email = "devin@canterberry.cc" }
+]
+description = "Standalone logger for emitting NDJSON-formatted logs."
+readme = "README.md"
+requires-python = ">=3.9"
